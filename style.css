@@ -1,0 +1,12 @@
+div {
+  border-style: solid;
+  border-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+/* a yellow bootstrap button with large text */
+button.btn.btn-warning {
+  font-size: larger;
+  color: #0050e1; /* blue color for my text */
+}
